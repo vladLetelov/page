@@ -1,0 +1,24 @@
+body{
+    background: #fff2e3;
+}
+
+button{
+    background: #FF6B6B;
+    color: #FFF;
+    font-size: 18px;
+    border-width: 0;
+    padding: 10px 15px;
+    margin: 20px 0;
+    border-radius: 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover{
+    background: #C44D58;
+}
+
+.home{
+    text-decoration: none;
+    color: #fff;
+}
